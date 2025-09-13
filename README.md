@@ -28,16 +28,6 @@ Calculator.py   # Main source code for the calculator
 
 ---
 
-## ▶️ How to Run
-1. Clone or download this repository.  
-2. Navigate to the project folder.  
-3. Run the script using:  
-
-```bash
-python Calculator.py
-```
-
-4. The calculator window will open.  
 
 ---
 
@@ -56,8 +46,6 @@ python Calculator.py
 
 ---
 
-## 📸 Screenshot
-*(Optional: You can add a screenshot of the calculator UI here)*  
 
 ---
 
